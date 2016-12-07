@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DB4E06FB-949F-9D7C-8205-FB6880C3A550}") = "Endless Runner new!! 555", "Assembly-CSharp.csproj", "{20E4CF39-8F8E-E924-F43D-F19A8C9B97D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E4CF39-8F8E-E924-F43D-F19A8C9B97D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E4CF39-8F8E-E924-F43D-F19A8C9B97D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E4CF39-8F8E-E924-F43D-F19A8C9B97D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E4CF39-8F8E-E924-F43D-F19A8C9B97D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

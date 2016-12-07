@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C7AE89A1-21D7-486C-9254-D4473F95C541}") = "SlothAdventureSourceCode", "Assembly-CSharp.csproj", "{72900126-1B7B-F005-661B-DC7E12362511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72900126-1B7B-F005-661B-DC7E12362511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72900126-1B7B-F005-661B-DC7E12362511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72900126-1B7B-F005-661B-DC7E12362511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72900126-1B7B-F005-661B-DC7E12362511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
