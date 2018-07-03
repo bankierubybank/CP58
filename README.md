@@ -1,2 +1,2 @@
-# CP58
-Computer Programming 58 Project : C# Game using Unity
+# CP
+Computer Programming 2015 Project : C# Game using Unity
